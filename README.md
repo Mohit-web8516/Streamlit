@@ -94,36 +94,6 @@ My goal is to strengthen my Python and Data Analytics skills by building practic
 
 ---
 
-## ▶️ Run Locally
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-Go to the project folder
-
-```bash
-cd your-repository
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run Streamlit
-
-```bash
-streamlit run app.py
-```
-
----
-
-
-
 
 ## 📬 Connect With Me
 
