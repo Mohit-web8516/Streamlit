@@ -46,5 +46,5 @@ with st.expander("Show Coffee Making Instructions"):
     """)
 
 # Markdown
-st.markdown("#  Welcome to Coffee App")
+st.markdown("# Welcome to Coffee App")
 st.markdown("> **Life begins after coffee.** ")
