@@ -1,0 +1,9 @@
+Date,City,Coffee_Type,Cups_Sold,Revenue
+2024-01-01,Delhi,Cappuccino,120,1800
+2024-01-01,Mumbai,Espresso,100,1500
+2024-01-02,Delhi,Latte,80,1600
+2024-01-02,Bangalore,Cappuccino,90,1350
+2024-01-03,Mumbai,Americano,110,1650
+2024-01-03,Chennai,Espresso,70,1050
+2024-01-04,Bangalore,Latte,60,1200
+2024-01-04,Chennai,Cold Coffee,85,1275
